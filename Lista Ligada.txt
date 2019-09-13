@@ -1,0 +1,34 @@
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+struct Lista{
+	int dato;
+	struct Lista* sig;
+};
+struct Lista* nuevo(struct Lista* lista,int dato){
+	struct Lista* nuevo=NULL;
+	nuevo=(struct Lista* )malloc(sizeof(struct Lista));
+	if(nuevo==NULL){
+		return NULL;
+	}else{
+		nuevo->dato=dato;
+		nuevo->sig=lista;
+	}
+	return nuevo;
+}
+	
+void mostrar(struct Lista* lista){
+	while(lista!=NULL){	
+		printf("%d ",lista->dato);
+		lista=lista->sig;
+	}
+	printf("\n");
+}
+
+int main (){
+	struct Lista* Milista=NULL;
+	Milista=nuevo(Milista, 4);
+	Milista=nuevo(Milista, 3);
+	Milista=nuevo(Milista, 7);
+	mostrar(Milista);
+}
