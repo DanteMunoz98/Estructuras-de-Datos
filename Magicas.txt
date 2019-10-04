@@ -1,0 +1,11 @@
+Ira de Milton, 		ATK-NULL,	DEF-NULL,	Roba 1 carta
+Ira de Milton,		ATK-NULL,	DEF-NULL,	Roba 1 carta
+Ira de Milton,		ATK-NULL,	DEF-NULL,	Roba 1 carta
+Bendiciones de Dioski,	ATK-NULL,	DEF-NULL,	Roba 2 carta
+Bendiciones de Dioski,	ATK-NULL,	DEF-NULL,	Roba 2 carta
+Bendiciones de Dioski,	ATK-NULL,	DEF-NULL,	Roba 2 carta
+Construccion de Manu,	ATK-NULL,	DEF-NULL,	Roba 3 carta
+Construccion de Manu,	ATK-NULL,	DEF-NULL,	Roba 3 carta
+Construccion de Manu,	ATK-NULL,	DEF-NULL,	Roba 3 carta
+Construccion de Manu,	ATK-NULL,	DEF-NULL,	Roba 3 carta
+	
